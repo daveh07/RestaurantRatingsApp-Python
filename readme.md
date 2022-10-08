@@ -15,7 +15,6 @@ The program makes use of:
 <li> if statements
 <li> functions
 <li> dictionaries, tuples & lists
-<li> loops
 
 ## Installation
 
