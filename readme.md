@@ -1,6 +1,6 @@
 # README - rating.py
 
-rating.py is a GUI program that iss created from the Python tkinter library framework. The program displays a series
+rating.py is a GUI program written in Python using the tkinter library framework. The program displays a series
 of buttons from 1 to 5 that the user clicks to submit a score for a particular aspect (Food, Wine & Atmosphere) 
 A button with "NA" is present if the score is not-applicable. 
 
