@@ -1,0 +1,33 @@
+Romantika, Food:1
+Romantika, Wine:3
+Romantika, Atmosphere:2
+Romantika, Food:4
+Romantika, Wine:2
+Romantika, Atmosphere:3
+El Mundo, Food:4
+El Mundo, Wine:5
+El Mundo, Atmosphere:4
+Romantika, Food:3
+Romantika, Wine:2
+Romantika, Atmosphere:4
+Romantika, Food:4
+Romantika, Wine:3
+Romantika, Atmosphere:2
+Curry House, Food:5
+Curry House, Wine:4
+Curry House, Atmosphere:5
+Curry House, Food:4
+Curry House, Wine:3
+Curry House, Atmosphere:4
+Curry House, Food:4
+Curry House, Wine:3
+Curry House, Atmosphere:4
+Romantika, Food:3
+Romantika, Wine:2
+Romantika, Atmosphere:4
+Romantika, Food:5
+Romantika, Wine:5
+Romantika, Atmosphere:5
+Romantika, Food:5
+Romantika, Wine:5
+Romantika, Atmosphere:5
